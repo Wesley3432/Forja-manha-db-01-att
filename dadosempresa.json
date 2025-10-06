@@ -1,3 +1,122 @@
-[{
-    "nome": "Isaac",
-}]
+[
+    {
+        "id": 1,
+        "nome": "The Trapper",
+        "idade": 45,
+        "cargo": "Especialista em armadilhas",
+        "imagem": "imagens/trapper.jpg",
+        "link": "https://www.youtube.com/watch?v=VvA9b-RRwAE"
+    },
+    {
+        "id": 2,
+        "nome": "The Wraith",
+        "idade": 38,
+        "cargo": "Assassino invisível",
+        "imagem": "imagens/wraith.jpg",
+        "link": "https://www.youtube.com/watch?v=oYRe1-muB8o"
+    },
+    {
+        "id": 3,
+        "nome": "The Hillbilly",
+        "idade": 40,
+        "cargo": "Assassino com motosserra",
+        "imagem": "imagens/hillbilly.jpg",
+        "link": "https://www.youtube.com/watch?v=F3cKPE44KrY"
+    },
+    {
+        "id": 4,
+        "nome": "The Nurse",
+        "idade": 32,
+        "cargo": "Assassina teleportadora",
+        "imagem": "imagens/nurse.jpg",
+        "link": "https://www.youtube.com/watch?v=_Ni26JLG5Aw"
+    },
+    {
+        "id": 5,
+        "nome": "The Shape (Michael Myers)",
+        "idade": 35,
+        "cargo": "Assassino furtivo",
+        "imagem": "imagens/shape.jpg",
+        "link": "https://www.youtube.com/watch?v=lEbvveoR7GQ"
+    },
+    {
+        "id": 6,
+        "nome": "The Hag",
+        "idade": 60,
+        "cargo": "Especialista em armadilhas mágicas",
+        "imagem": "imagens/hag.jpg",
+        "link": "https://www.youtube.com/watch?v=7nVrveWO1os"
+    },
+    {
+        "id": 7,
+        "nome": "The Doctor",
+        "idade": 50,
+        "cargo": "Manipulador de loucura",
+        "imagem": "imagens/doctor.jpg",
+        "link": "https://www.youtube.com/watch?v=4qvXyUlODUA"
+    },
+    {
+        "id": 8,
+        "nome": "The Huntress",
+        "idade": 28,
+        "cargo": "Especialista em machados",
+        "imagem": "imagens/huntress.jpg",
+        "link": "https://www.youtube.com/watch?v=efCxEYCaqk4"
+    },
+    {
+        "id": 9,
+        "nome": "The Cannibal (Leatherface)",
+        "idade": 30,
+        "cargo": "Assassino com motosserra",
+        "imagem": "imagens/cannibal.jpg",
+        "link": "https://www.youtube.com/watch?v=qUDMSKC5enA"
+    },
+    {
+        "id": 10,
+        "nome": "The Nightmare (Freddy Krueger)",
+        "idade": 40,
+        "cargo": "Manipulador de sonhos",
+        "imagem": "imagens/nightmare.jpg",
+        "link": "https://www.youtube.com/watch?v=yqBhlHI7nSI"
+    },
+    {
+        "id": 11,
+        "nome": "The Pig",
+        "idade": 34,
+        "cargo": "Especialista em armadilhas de cabeça",
+        "imagem": "imagens/pig.jpg",
+        "link": "https://www.youtube.com/watch?v=5KHnoFb2Tno&t=221s"
+    },
+    {
+        "id": 12,
+        "nome": "The Clown",
+        "idade": 48,
+        "cargo": "Assassino com gás tóxico",
+        "imagem": "imagens/clown.jpg",
+        "link": "https://www.youtube.com/watch?v=KP5trGYlBq8"
+    },
+    {
+        "id": 13,
+        "nome": "The Spirit",
+        "idade": 19,
+        "cargo": "Assassina fantasmagórica",
+        "imagem": "imagens/spirit.jpg",
+        "link": "https://www.youtube.com/watch?v=ur3p6N01HKQ"
+    },
+    {
+        "id": 14,
+        "nome": "The Legion",
+        "idade": 21,
+        "cargo": "Assassinos em grupo",
+        "imagem": "imagens/legion.jpg",
+        "link": "https://www.youtube.com/watch?v=653jzIknka0"
+    },
+    {
+        "id": 15,
+        "nome": "The Oni",
+        "idade": 55,
+        "cargo": "Assassino demoníaco",
+        "imagem": "imagens/oni.jpg",
+        "link": "https://www.youtube.com/watch?v=m2_2Jl5z6Fg"
+    }
+]

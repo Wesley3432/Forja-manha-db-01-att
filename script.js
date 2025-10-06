@@ -17,6 +17,11 @@ async function imagemTC() {
                 <h3>Idade: ${ImagensTC.idade}</h3>
                 <p>${ImagensTC.cargo}</p>
             `;
+            card.onclick = () => {
+                if (ImagensTC.link) {
+                    window.open(ImagensTC.link, '_blank');
+                }
+            };
             resultsDiv.appendChild(card);
         });
 
